@@ -4,5 +4,7 @@ version = "0.1.0"
 authors = ["loomaclin <loo.maclin@protonmail.com>"]
 description = "identity function"
 license = "MIT/Apache-2.0"
+repository = "https://github.com/LooMaclin/identity_function_rs"
+homepage = "https://github.com/LooMaclin/identity_function_rs"
 
 [dependencies]
