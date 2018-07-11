@@ -2,5 +2,7 @@
 name = "identity_function"
 version = "0.1.0"
 authors = ["loomaclin <loo.maclin@protonmail.com>"]
+description = "identity function"
+license = "bsd"
 
 [dependencies]
